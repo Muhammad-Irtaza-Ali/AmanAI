@@ -1,3 +1,32 @@
+# Nigehban AI — Multilingual Emergency Assistant
+
+A React/FastAPI prototype combining multilingual chat, weather and AQI integrations, hospital lookup, and incident-report workflows.
+
+**Category:** Assistive AI prototype
+
+## Start here
+
+See the existing setup and environment instructions below. Treat generated emergency or first-aid content as experimental assistance; the repository does not establish clinical validation, real-time responder integration, or guaranteed availability. Preserve the original safety notice and credits.
+
+## Repository map
+
+- [`.aicoding-chat-workspace`](./.aicoding-chat-workspace)
+- [`.gitignore`](./.gitignore)
+- [`backend/`](./backend)
+- [`docker-compose.yml`](./docker-compose.yml)
+- [`frontend/`](./frontend)
+- [Main implementation](./backend/app)
+
+## Review and reproducibility
+
+This guide describes the repository structure and documented implementation. It does not certify a successful installation, a passing test suite, production readiness, or claimed model accuracy. Keep individual contributions, upstream credits, data sources, and verified results with the relevant implementation.
+
+---
+
+## Existing implementation notes
+
+The original project notes are retained below. Where commands or status differ, use the repository paths and start instructions above.
+
 # Nigehban AI — Multilingual AI Emergency Assistant
 
 An AI-powered multilingual emergency assistant that helps users during emergencies through text and voice interactions. Supports **English**, **Urdu**, and **Sindhi**.
